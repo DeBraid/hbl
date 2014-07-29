@@ -6,7 +6,8 @@
       "handlebar-helpers": {},
       "iron-router-progress": {},
       "semantic-ui": {},
-      "collection2": {}
+      "collection2": {},
+      "blog": {}
     },
     "packages": {
       "iron-router": {
@@ -21,18 +22,23 @@
       },
       "iron-router-progress": {
         "git": "https://github.com/Multiply/iron-router-progress.git",
-        "tag": "v0.3.1",
-        "commit": "3f7900feb4bb70a1289b39a1fdcd1f438c0335b3"
+        "tag": "v0.4.1",
+        "commit": "496fcda9a6ec352b4733725f60c6f280250c3541"
       },
       "semantic-ui": {
         "git": "https://github.com/nooitaf/meteor-semantic-ui.git",
-        "tag": "v0.16.1",
-        "commit": "46da3245561e5e64f03b1e2c8807cc6125aa4d98"
+        "tag": "v0.19.0",
+        "commit": "23ddf7b58db125cc33d0d95d58fcac940f262481"
       },
       "collection2": {
         "git": "https://github.com/aldeed/meteor-collection2.git",
-        "tag": "v0.3.11",
-        "commit": "7e970671305657678e8508d8107d5e6c5e158559"
+        "tag": "v0.4.3",
+        "commit": "cb470de2cfeebeccbf76d4cc0a39ad4afc76d553"
+      },
+      "blog": {
+        "git": "https://github.com/Differential/meteor-blog.git",
+        "tag": "v0.5.2",
+        "commit": "e68c56951fc55ef967f092d489764ea6f349e88a"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
@@ -41,8 +47,53 @@
       },
       "simple-schema": {
         "git": "https://github.com/aldeed/meteor-simple-schema.git",
-        "tag": "v0.4.0",
-        "commit": "2cc6aac0d35a4e00b065c1437d540b2aefba5241"
+        "tag": "v0.6.0",
+        "commit": "418ec496612fb2afc853e342f0d2269b6674a2fe"
+      },
+      "minimongoid": {
+        "git": "https://github.com/Exygy/minimongoid.git",
+        "tag": "v0.8.8",
+        "commit": "cf8d0bec44934d617544965977f270f2a8cdca02"
+      },
+      "moment": {
+        "git": "https://github.com/acreeger/meteor-moment.git",
+        "tag": "v2.6.0",
+        "commit": "26156df681750fd6e6ed77043eef32b6653ebbdf"
+      },
+      "roles": {
+        "git": "https://github.com/alanning/meteor-roles.git",
+        "tag": "v1.2.10",
+        "commit": "7ccb35de0a6cb0c9a0c3666badd04757e39c09a6"
+      },
+      "fileCollection": {
+        "git": "https://github.com/vsivsi/meteor-file-collection.git",
+        "tag": "v0.2.3",
+        "commit": "71ee5e2cce54794cacc0543fd26c769a2eb2ef37"
+      },
+      "shareit": {
+        "git": "https://github.com/Differential/shareit.git",
+        "tag": "v0.1.0",
+        "commit": "5115e48e30a07f57c6b311f261995035394757f9"
+      },
+      "reactive-table": {
+        "git": "https://github.com/ecohealthalliance/reactive-table.git",
+        "tag": "v0.3.15",
+        "commit": "be996c811ef4232818bc51439f7cfc8deac9e012"
+      },
+      "underscore-string-latest": {
+        "git": "https://github.com/TimHeckel/meteor-underscore-string.git",
+        "tag": "v2.3.3",
+        "commit": "4a5d70eee48fbd90a6e6fc78747250d704a0b3bb"
+      },
+      "phantomjs": {
+        "git": "https://github.com/gadicohen/meteor-phantomjs.git",
+        "tag": "v0.0.2",
+        "commit": "a72eb79af068dd5d5d617ac71a42bd74e0cb52a4"
+      },
+      "just-i18n": {
+        "git": "https://github.com/subhog/meteor-just-i18n.git",
+        "tag": "v0.3.0",
+        "commit": "a60e7f4350fb9648d6f6b4a01acbbc114c4f4343"
       }
     }
   }
